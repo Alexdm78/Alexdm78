@@ -1,114 +1,80 @@
-<!-- Encabezado / Banner -->
+<!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,100:00C9A7&height=120&section=header&text=Alejandro%20Davila%20%7C%20ArtTechAI&fontSize=30&fontColor=ffffff&animation=fadeIn" />
+  <img src="TU_IMAGEN_SUBIDA_A_GITHUB" width="100%" alt="ArtTechAI Banner"/>
 </p>
 
-<h1 align="center">こんにちは! Hi there 👋 I'm Alejandro Davila</h1>
-<h3 align="center">Founder of ArtTechAI | Digital Creator | AI Tools & Automations</h3>
+<h1 align="center">Alejandro Davila | ArtTechAI 🚀</h1>
 
-<p align="center">
-  <em>Building intelligent tools for entrepreneurs — AI, automation and digital creativity.</em>
-</p>
-
----
-
-## 🔗 Connect with me
+<h3 align="center">AI Automations • Digital Products • Creative Intelligence</h3>
 
 <p align="center">
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/TikTok-000000.svg?&style=for-the-badge&logo=tiktok&logoColor=white" />
-  </a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/ArtTechAI-Portfolio-6C63FF?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
+  Construyendo herramientas inteligentes, automatizaciones y productos digitales 
+  que ayudan a emprendedores y negocios a escalar más rápido.
 </p>
 
 ---
 
-## 🧠 About Me
-
-- 🔭 Founder of **ArtTechAI** – my personal brand focused on AI, automation and digital products.  
-- 🚀 I create **AI assistants**, web tools, templates and business systems for entrepreneurs.  
-- 📚 Currently learning **Python**, **automation (Make/n8n)** and **full-stack development**.  
-- 🎥 I create content about **AI, business ideas, technology and digital growth**.  
-- 🤝 I help people build their first digital product or automate a part of their business.  
-- 💡 Passionate about: AI tools, digital strategy, automation, productivity and impactful ideas.  
-
----
-
-## 🛠 Tech Stack & Tools
-
-### 🧩 Languages & Frameworks
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-</p>
-
-### 🎨 Design & Creative Tools
-<p>
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
-  <img src="https://img.shields.io/badge/Adobe%20Premiere-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white" />
-</p>
-
-### ⚙️ Automation & AI
-<p>
-  <img src="https://img.shields.io/badge/Google%20AI%20Studio-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/Make.com-2A2AFF?style=for-the-badge&logo=make&logoColor=white" />
-  <img src="https://img.shields.io/badge/n8n-AE3334?style=for-the-badge&logo=n8n&logoColor=white" />
+## 🔗 Connect With Me
+<p align="center">
+  <a href="https://www.arttechai.com" target="_blank"><img src="https://img.shields.io/badge/🌐%20Website-ArtTechAI-blue?style=for-the-badge"></a>
+  <a href="https://www.facebook.com/arttechai/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
+  <a href="https://www.instagram.com/arttechai/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/alejandro-davila-morale-1289b4319/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.tiktok.com/@arttechaii" target="_blank"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"></a>
+  <a href="https://www.youtube.com/@ArtTechAIpro" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
+  <a href="https://x.com/ArtTechAI" target="_blank"><img src="https://img.shields.io/badge/Twitter/X-000000?style=for-the-badge&logo=x&logoColor=white"></a>
 </p>
 
 ---
 
-## 🚀 Featured Project
+## 👨🏻‍💻 About Me
 
-### 🧠 ArtTechAI Assistant
-Your first AI assistant built with **Google AI Studio**, designed to help digital entrepreneurs:
+- 🧠 **Founder of ArtTechAI**, un ecosistema de automatización, IA aplicada y productos digitales.
+- 🚀 **Desarrollo asistentes AI, herramientas, plantillas y sistemas automáticos** para creadores y emprendedores.
+- 🧰 Actualmente aprendiendo **Python, Make (n8n), full-stack básico** y desarrollo de chatbots especializados.
+- 🎥 Creo contenido sobre **IA, negocios digitales, automatización y crecimiento personal/empresarial**.
+- 🧩 Ayudo a personas a crear su **primer producto digital**, su landing page y su sistema de ventas.
+- 💡 Apasionado por: innovación, creatividad, estrategia digital y construir ideas con impacto real.
 
-- Build products  
-- Generate content  
-- Create service offers  
-- Improve ideas using AI  
+---
 
-🔗 **Repository:** *(add link when you make it public)*  
+## 🛠️ Tech & Tools I Use
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,nodejs,github,git,notion,linux,ai,figma" />
+</p>
+
+---
+
+## ⚙️ What I'm Building Now
+
+- 🤖 **Mi ecosistema de asistentes AI personalizados** (Ninja ASPECCT, FunnelMaster, VidaGPT).
+- 🛒 **Tiendas y embudos automáticos** para emprendedores.
+- 🎓 **Cursos y recursos digitales** para personas que quieren aprender IA y automatización.
+- 📚 **Productos digitales premium**: ebooks, planners, plantillas, automatizaciones listas para usar.
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Alexdm78&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alexdm78&theme=radical" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexdm78&layout=compact&theme=radical" alt="Top Languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Alexdm78&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexdm78&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 🎯 Next Goals
-
-- Develop more AI-based tools  
-- Build my automation agency workflow  
-- Create digital product ecosystems  
-- Launch more web apps with Gemini + Make + JS  
-- Grow ArtTechAI as a brand  
+## ✨ Vision & Mission
+> “Construir herramientas inteligentes que permitan a cualquier persona crear, automatizar y escalar sus ideas, sin importar su nivel técnico.”
 
 ---
 
-<p align="center">
-  <em>"Aprende. Crea. Automatiza. Comparte."</em> ✨  
-  <br>
-  <b>– Alejandro Davila (ArtTechAI)</b>
+## 🤝 Open to Collaborations
+Si quieres automatizar tu negocio, crear tu primer producto digital o integrar IA en tus procesos…
+
+📩 **Contáctame por cualquier red social. Estoy listo para ayudarte.**
+
+---
+
+<p align="center">  
+  Hecho con ❤️ y mucha IA por <strong>ArtTechAI</strong>
 </p>
