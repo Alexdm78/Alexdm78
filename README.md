@@ -3,7 +3,7 @@
   <img src="TU_IMAGEN_SUBIDA_A_GITHUB" width="100%" alt="ArtTechAI Banner"/>
 </p>
 
-<h1 align="center">Alejandro Davila | ArtTechAI 🚀</h1>
+<h1 align="center">Alejandro Dávila | ArtTechAI 🚀</h1>
 
 <h3 align="center">AI Automations • Digital Products • Creative Intelligence</h3>
 
