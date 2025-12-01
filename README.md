@@ -5,8 +5,7 @@
 </p>
 <!-- Banner -->
 <p align="center">
-  <img src="TU_IMAGEN_SUBIDA_A_GITHUB" width="100%" alt="ArtTechAI Banner"/>
-</p>
+
 
 <h1 align="center">Alejandro Dávila | ArtTechAI 🚀</h1>
 
