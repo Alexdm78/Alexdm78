@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://github.com/Alexdm78/Alexdm78/raw/857e505ddaa94445ed8527a6be19df2504bd8ab8/Captura%20de%20pantalla%202025-11-30%20184942.png" 
+       alt="ArtTechAI Banner" 
+       style="width:100%; max-width:900px; border-radius: 10px;" />
+</p>
 <!-- Banner -->
 <p align="center">
   <img src="TU_IMAGEN_SUBIDA_A_GITHUB" width="100%" alt="ArtTechAI Banner"/>
